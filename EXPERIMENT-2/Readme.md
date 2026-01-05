@@ -34,3 +34,31 @@
 ## Output:
 ![output](r1.png)
 
+## 2b) Title: To implement method overloading
+## Source Code:
+```java
+class Sum {
+
+    int sum(int a, int b) {
+        return a + b;
+    }
+
+    int sum(int a, int b, int c) {
+        return a + b + c;
+    }
+
+     double sum(double a, double b) {
+        return a + b;
+    }
+}
+class main {
+    public static void main(String[] args) {
+        Sum s=new Sum();
+        System.out.println("sum of 2 integer :"+s.sum(10, 20));
+        System.out.println("sum of 3 integer :"+s.sum(10, 20, 30));
+        System.out.println("sum of 2 real numbers :"+s.sum(5.5, 4.5));
+    }
+}
+```
+## Output:
+![output](s1.png)
