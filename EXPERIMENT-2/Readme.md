@@ -89,4 +89,5 @@ class main {
 }
 ```
 ## Output:
-![output](n1)
+
+![case](n1.png)
