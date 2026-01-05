@@ -67,4 +67,4 @@ class QuadraticEquation {
 
 ![case2](quadratic.png)
 
-![case3](c3.png)
+![case3](c2.png)
