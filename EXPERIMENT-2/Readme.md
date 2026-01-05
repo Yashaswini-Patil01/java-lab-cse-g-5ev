@@ -62,3 +62,31 @@ class main {
 ```
 ## Output:
 ![output](s1.png)
+
+## 2c) Title: To implement constructor
+## Source Code:
+```java
+class Student {
+    String sname;
+    int sage;
+    double smarks;
+    Student (String name,int age,double marks) {
+       sname=name;
+       sage=age;
+       smarks=marks;
+    }
+      void display() {
+      System.out.println("student name:" + sname);
+      System.out.println("student age:" + sage);
+      System.out.println("stdent marks:" + smarks);
+     }
+  }
+class main {
+    public static void main(String args[]) {
+       Student s=new Student("Supriya",20,789);
+       s.display();
+      }
+}
+```
+## Output:
+![output](n1)
