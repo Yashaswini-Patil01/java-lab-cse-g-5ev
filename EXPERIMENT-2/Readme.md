@@ -83,7 +83,7 @@ class Student {
   }
 class main {
     public static void main(String args[]) {
-       Student s=new Student("Supriya",20,789);
+       Student s=new Student("yashaswini",20,789);
        s.display();
       }
 }
