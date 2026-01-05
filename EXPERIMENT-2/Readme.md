@@ -89,4 +89,4 @@ class main {
 }
 ```
 ## Output:
-![out](n1)
+![output](n1)
