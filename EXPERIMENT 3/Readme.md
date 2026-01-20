@@ -103,5 +103,5 @@ class Main {
 }
 ```
 ## Output:
-![output](b1.png)
+![output](bi.png)
 
