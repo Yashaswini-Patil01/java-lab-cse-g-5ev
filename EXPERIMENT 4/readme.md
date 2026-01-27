@@ -158,4 +158,4 @@ public class TestFigure {
 }
 ```
 ## Output:
-![output](f1.png)
+![out](f1.png)
