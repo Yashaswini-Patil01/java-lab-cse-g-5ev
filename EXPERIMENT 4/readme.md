@@ -4,7 +4,7 @@
 ```java
 class Person {
     String name;
-    int age;
+    int age; 
 
     Person(String name, int age) {
         this.name = name;
