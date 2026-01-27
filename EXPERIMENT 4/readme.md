@@ -101,7 +101,7 @@ public class TestVehicle {
 }
 ```
 ## Output:
-![output](b1.png)
+![output](v1.png)
 
 
 ## 4c) Title: 
