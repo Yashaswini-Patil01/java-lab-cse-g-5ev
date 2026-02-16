@@ -1,5 +1,5 @@
 # EXPERIMENT-4
-## 4a) Title: 
+## 4a) Title: TO IMPLEMENT SINGLE INHERITANCE
 ## Source Code:
 ```java
 class Person {
@@ -54,7 +54,7 @@ public class TestEmployee {
 ## Output:
 ![output](p1.png)
 
-## 4b) Title: 
+## 4b) Title: TO IMPLEMENT MULTIPLE INHERITANCE
 ## Source Code:
 ```java
 class Bicycle {
@@ -104,7 +104,7 @@ public class TestVehicle {
 ![output](v1.png)
 
 
-## 4c) Title: 
+## 4c) Title: TO FIND AREA OF DIFFERENT SHAPES USING ABSTRACT CLASS
 ## Source Code:
 ```java
 abstract class Figure {
