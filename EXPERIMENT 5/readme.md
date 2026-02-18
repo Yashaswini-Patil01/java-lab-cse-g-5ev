@@ -100,7 +100,7 @@ class TestVehicle {
 }
 ```
 ## Output:
-![output](vehicle.png)
+![output](5b.png)
 
 ## 5c) Title: StringBuffer Character Deletion
 ## Source Code:
